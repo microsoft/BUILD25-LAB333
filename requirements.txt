@@ -4,6 +4,6 @@ mkdocs-material
 # OpenAI Reasoning
 openai==1.56.1
 ipython==8.13.2
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 
 
